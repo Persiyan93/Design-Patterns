@@ -7,7 +7,7 @@ namespace Factory_Pattern.Factory
 {
     public class PizzaFactory : IFoodFactory
     {
-        IFood IFoodFactory.CreateFood()
+        public IFood CreateFood()
         {
             return new Pizza();
         }

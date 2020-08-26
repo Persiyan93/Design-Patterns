@@ -7,7 +7,7 @@ namespace Builder_Pattern
 {
     public class SportCarBuilder : IBuilder
     {
-        private Car car;
+        private Car car=new Car();
 
         public Car GetCar()
         {

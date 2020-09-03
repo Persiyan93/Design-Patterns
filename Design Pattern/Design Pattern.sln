@@ -9,9 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Builder Pattern", "Builder 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton Pattern", "Singleton Pattern\Singleton Pattern.csproj", "{7D945BD7-5B67-49A9-B6BB-C81B93160256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prototype patern", "Prototype patern\Prototype patern.csproj", "{3AD1F4DE-8E51-4BD1-A351-DA42623399F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prototype patern", "Prototype patern\Prototype patern.csproj", "{3AD1F4DE-8E51-4BD1-A351-DA42623399F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aaaa", "aaaa\aaaa.csproj", "{42BD4D87-B339-45E0-93E2-8A34B159F21A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy Pattern", "Proxy Pattern\Proxy Pattern.csproj", "{CE6FEE40-B634-45F3-8404-3E2B008B11D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{3AD1F4DE-8E51-4BD1-A351-DA42623399F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3AD1F4DE-8E51-4BD1-A351-DA42623399F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3AD1F4DE-8E51-4BD1-A351-DA42623399F3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{42BD4D87-B339-45E0-93E2-8A34B159F21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{42BD4D87-B339-45E0-93E2-8A34B159F21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{42BD4D87-B339-45E0-93E2-8A34B159F21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{42BD4D87-B339-45E0-93E2-8A34B159F21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE6FEE40-B634-45F3-8404-3E2B008B11D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE6FEE40-B634-45F3-8404-3E2B008B11D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE6FEE40-B634-45F3-8404-3E2B008B11D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE6FEE40-B634-45F3-8404-3E2B008B11D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

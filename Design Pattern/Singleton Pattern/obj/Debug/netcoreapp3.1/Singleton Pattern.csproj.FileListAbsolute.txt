@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.exe
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.deps.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.runtimeconfig.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.runtimeconfig.dev.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.dll
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\bin\Debug\netcoreapp3.1\Singleton Pattern.pdb
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.AssemblyInfo.cs
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.dll
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.pdb
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Singleton Pattern\obj\Debug\netcoreapp3.1\Singleton Pattern.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.exe
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.deps.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.runtimeconfig.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.runtimeconfig.dev.json
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.dll
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\bin\Debug\netcoreapp3.1\Prototype patern.pdb
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.csprojAssemblyReference.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.csproj.CoreCompileInputs.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.AssemblyInfoInputs.cache
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.AssemblyInfo.cs
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.dll
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.pdb
+C:\Users\persi\Desktop\Design Patterns\Design Pattern\Prototype patern\obj\Debug\netcoreapp3.1\Prototype patern.genruntimeconfig.cache
